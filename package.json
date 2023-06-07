@@ -1,0 +1,18 @@
+{
+  "name": "bhumio",
+  "version": "1.0.0",
+  "description": "Web Admin Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\"https://github.com/sswadi/WebAdminApp.git\""
+  },
+  "author": "Swati S",
+  "license": "ISC",
+  "devDependencies": {
+    "@nestjs/cli": "^9.5.0"
+  }
+}
